@@ -1,3 +1,5 @@
+This is a fork of the original CouchPotato server repo from (http://github.com/RuudBurger/CouchPotatoServer)[http://github.com/RuudBurger/CouchPotatoServer]
+
 CouchPotato Server
 =====
 
